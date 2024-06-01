@@ -1,0 +1,9 @@
+DPI: 12345678, Numero de cuenta:20240531153630, Fecha: 2024-05-31, Monto Inicial: 7000.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 3022755840101, Numero de cuenta:20240531174305, Fecha: 2024-05-31, Monto Inicial: 900.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 3022755840101, Numero de cuenta:20240531174402, Fecha: 2024-05-31, Monto Inicial: 900.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 302275, Numero de cuenta:20240531174407, Fecha: 2024-05-31, Monto Inicial: 900.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 12523423423, Numero de cuenta:20240531174423, Fecha: 2024-05-31, Monto Inicial: 122.0, Tipo de Cuenta: CUENTA M0NETARIA
+DPI: 1212, Numero de cuenta:20240531181344, Fecha: 2024-05-31, Monto Inicial: 12222.0, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 100, Numero de cuenta:20240531181403, Fecha: 2024-05-31, Monto Inicial: 3.022755840101E12, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 100, Numero de cuenta:20240531181408, Fecha: 2024-05-31, Monto Inicial: 3.02275584010102E14, Tipo de Cuenta: CEUNTA DE AHORRO
+DPI: 1222, Numero de cuenta:20240531181413, Fecha: 2024-05-31, Monto Inicial: 3.02275584010102E14, Tipo de Cuenta: CEUNTA DE AHORRO
